@@ -31,7 +31,7 @@ const Hero = () => {
               </div>
               <div className="flex items-center gap-2 px-4 py-2 glass rounded-full">
                 <div className="w-2 h-2 bg-success rounded-full animate-pulse" />
-                <span className="text-sm font-medium text-success">AI Active</span>
+                <span className="text-sm font-medium text-success">Emannx-AI Active</span>
               </div>
             </Flex>
           </Container>
